@@ -38,7 +38,7 @@ This notebook implements a Physics-Informed Neural Network (PINN) using a Gaussi
 
 ## 3D Simulation
 The 3D Simulation and the Scientific Functions were performed using AxiSEM and SPECFEM3D software. The output files are available at the drive link: https://drive.google.com/drive/folders/1bUP_BMHO-UK2DQg1R8leFhAYgfSh4y6-?usp=sharing these files can be opened on PARAVIEW. 
-
+![](/temp/topography.png)
 ## How to Use
 1. Clone the repository: `git clone https://github.com/who-else-but-arjun/Martian_Core_Analysis.git`
 2. Install dependencies: Ensure Python and Jupyter Notebook are installed along with necessary libraries `pip install -r requirements.txt`.
