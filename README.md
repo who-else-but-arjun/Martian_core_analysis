@@ -1,4 +1,5 @@
-# Martian Core Analysis<video width="800" height="450" controls>
+# Martian Core Analysis
+<video width="800" height="450" controls>
   <source src="3D/Surface_Z.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
