@@ -11,7 +11,7 @@ This notebook focuses on signal processing techniques for analyzing the seismic 
 - **Time-Frequency Analysis**: Techniques like wavelet transform were used to analyze signal behavior over time.
 - **Visualization**: Spectrograms and time-domain plots were generated to interpret the results.
 - **Synthetic Data Simulation**: Synthetic waveforms were generated from the available seismic data for shadow and non-shadow zones. 
-- **Supervised ML to classify the Seismic Data**: Logistic Regression was applied on various features obtained from the seismic data to predict whether it is a shadow zone or non-shadow zone.
+- **Supervised ML to classify the Seismic Data**: Logistic Regression was applied to various features obtained from the seismic data to predict whether it is a shadow zone or non-shadow zone.
 
 ### 2. Core_radius.ipynb
 This notebook focuses on analyzing and determining the core radius of Mars in a dataset. The following steps were performed:
@@ -29,15 +29,15 @@ This notebook applies the DBSCAN algorithm for anomaly detection in seismic wave
 - **Anomaly Detection**: Points flagged as anomalies in the amplitude, frequency, and phase plots were visualized and analyzed.
 
 ### 4. PINN.ipynb
-This notebook implements a Physics-Informed Neural Network (PINN) using a Gaussian Process Neural Network (GPNN) for solving partial differential equations (PDEs) of the P and S waves and mapping it as a function of depth. Highlights include:
+This notebook implements a Physics-Informed Neural Network (PINN) using a Gaussian Process Neural Network (GPNN) for solving partial differential equations (PDEs) of the P and S waves and mapping them as a function of depth. Highlights include:
 - **Physics-Informed Modeling**: Derivation of PDEs and incorporation of physical laws into the neural network structure.
-- **Network Design**: Implementation of a Gaussian process neural network with PDE loss function.
-- **Training and Optimization**: Loss functions were defined to minimize the error in satisfying the physical laws (PDE loss) and boundary conditions (MSE loss).
+- **Network Design**: Implementing a Gaussian process neural network with PDE loss function.
+- **Training and Optimization**: Loss functions were defined to minimize errors in satisfying the physical laws (PDE loss) and boundary conditions (MSE loss).
 - **Validation**: Results were validated against analytical or numerical solutions.
 - **Visualization**: The solution was visualized using 2D and 3D plots.
 
 ## 3D Simulation
-The 3D Simulation and the Scientific Functions were performed using AxiSEM and SPECFEM3D software. The output files are available at the drive link: [https://drive.google.com/drive/folders/1bUP_BMHO-UK2DQg1R8leFhAYgfSh4y6-?usp=sharing](https://drive.google.com/drive/folders/19QUjFtqC-0AK7rIrBRwY2GfpBMyvbw0f?usp=sharing) these files can be opened on PARAVIEW. 
+The 3D Simulation and the Scientific Functions were performed using AxiSEM and SPECFEM3D software. The output files are available at the drive link: https://drive.google.com/drive/u/1/folders/19QUjFtqC-0AK7rIrBRwY2GfpBMyvbw0f these files can be opened on PARAVIEW. 
 ![](/temp/topography.png)
 ## How to Use
 1. Clone the repository: `git clone https://github.com/who-else-but-arjun/Martian_Core_Analysis.git`
