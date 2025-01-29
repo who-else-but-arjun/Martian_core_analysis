@@ -1,5 +1,5 @@
 # Martian Core Analysis
-
+![](/3D/Surface_Z.mp4)
 This repository contains all notebooks that perform various data analyses and computational tasks for the analysis of the Martian Core and Seismic data. Each notebook is focused on a specific topic or methodology. Below is a summary of the actions performed and the analysis conducted in each notebook. 
 Detailed Report Available at :
 
@@ -38,7 +38,7 @@ This notebook implements a Physics-Informed Neural Network (PINN) using a Gaussi
 
 ## 3D Simulation
 The 3D Simulation and the Scientific Functions were performed using AxiSEM and SPECFEM3D software. The output files are available at the drive link: https://drive.google.com/drive/u/1/folders/19QUjFtqC-0AK7rIrBRwY2GfpBMyvbw0f these files can be opened on PARAVIEW. 
-![](/temp/topography.png)
+![](/3D/topography.png)
 ## How to Use
 1. Clone the repository: `git clone https://github.com/who-else-but-arjun/Martian_Core_Analysis.git`
 2. Install dependencies: Ensure Python and Jupyter Notebook are installed along with necessary libraries `pip install -r requirements.txt`.
