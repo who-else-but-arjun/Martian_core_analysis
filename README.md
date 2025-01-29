@@ -1,5 +1,5 @@
 # Martian Core Analysis
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/who-else-but-arjun/Martian_core_analysis/3D/Surface_Z.mp4)
+[![](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/who-else-but-arjun/Martian_core_analysis/3D/Surface_Z.mp4)
 This repository contains all notebooks that perform various data analyses and computational tasks for the analysis of the Martian Core and Seismic data. Each notebook is focused on a specific topic or methodology. Below is a summary of the actions performed and the analysis conducted in each notebook. 
 Detailed Report Available at :
 
