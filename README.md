@@ -37,7 +37,7 @@ This notebook implements a Physics-Informed Neural Network (PINN) using a Gaussi
 - **Visualization**: The solution was visualized using 2D and 3D plots.
 
 ## 3D Simulation
-The 3D Simulation and the Scientific Functions were performed using AxiSEM and SPECFEM3D software. The output files are available at the drive link: https://drive.google.com/drive/u/1/folders/19QUjFtqC-0AK7rIrBRwY2GfpBMyvbw0f these files can be opened on PARAVIEW. 
+The 3D Simulation and the Scientific Functions were performed using ![Axisem][https://github.com/geodynamics/axisem] and SPECFEM3D software. The output files are available at the drive link: https://drive.google.com/drive/u/1/folders/19QUjFtqC-0AK7rIrBRwY2GfpBMyvbw0f these files can be opened on PARAVIEW. 
 ![](/3D/topography.png)
 ## How to Use
 1. Clone the repository: `git clone https://github.com/who-else-but-arjun/Martian_Core_Analysis.git`
