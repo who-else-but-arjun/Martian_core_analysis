@@ -1,7 +1,7 @@
 # Martian Core Analysis
 
 This repository contains all notebooks that perform various data analyses and computational tasks for the analysis of the Martian Core and Seismic data. Each notebook is focused on a specific topic or methodology. Below is a summary of the actions performed and the analysis conducted in each notebook. 
-Detailed Report Available at :
+Detailed Report Available at : https://drive.google.com/file/d/1JZqIV6JwNfYHioY6cD17IJW6UX_ArgAr/view?usp=sharing
 
 ### 1. Signal_processing.ipynb
 This notebook focuses on signal processing techniques for analyzing the seismic data which is time-series wave-like data. The key actions include:
